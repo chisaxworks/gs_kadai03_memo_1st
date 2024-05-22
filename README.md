@@ -3,7 +3,7 @@
 - 確認URL　https://chisaxworks.github.io/gs_kadai03_memo_1st/
 
 # こちら(1st)をご覧になられた方への「注意事項」
-- localstorageは「https://chisaxworks.github.io/」配下で共通となりますので、以下の場合は一度データを全て削除してください
+- localstorageは 「https://chisaxworks.github.io/ 」配下で共通となりますので、以下の場合は一度データを全て削除してください
   - 1stで試して、2ndに移る場合
   - 2ndで試して、1stに移る場合
     
